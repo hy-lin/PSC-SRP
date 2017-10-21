@@ -1,0 +1,169 @@
+Keres
+Crow
+Raptor
+Cheetah
+Crusader
+Malediction
+Anathema
+Sentinel
+Buzzard
+Kitsune
+Claw
+Stiletto
+Taranis
+Ares
+Vengeance
+Wolf
+Nemesis
+Hawk
+Harpy
+Hyena
+Retribution
+Jaguar
+Manticore
+Hound
+Purifier
+Ishkur
+Enyo
+Caldari Navy Hookbill
+Imperial Navy Slicer
+Republic Fleet Firetail
+Federation Navy Comet
+Succubus
+Cruor
+Daredevil
+Worm
+Dramiel
+Astero
+Garmur
+Deacon
+Kirin
+Thalia
+Scalpel
+Coercer
+Cormorant
+Catalyst
+Thrasher
+Heretic
+Sabre
+Eris
+Flycatcher
+Algos
+Dragoon
+Corax
+Talwar
+Confessor
+Svipul
+Jackdaw
+Hecate
+Bifrost
+Pontifex
+Stork
+Magus
+Osprey
+Caracal
+Stabber
+Moa
+Maller
+Augoror
+Vexor
+Thorax
+Arbitrator
+Rupture
+Bellicose
+Scythe
+Blackbird
+Celestis
+Exequror
+Omen
+Falcon
+Rook
+Huginn
+Rapier
+Pilgrim
+Arazu
+Lachesis
+Scimitar
+Basilisk
+Guardian
+Oneiros
+Cerberus
+Onyx
+Vagabond
+Zealot
+Ishtar
+Eagle
+Broadsword
+Muninn
+Devoter
+Sacrilege
+Phobos
+Deimos
+Caracal Navy Issue
+Omen Navy Issue
+Stabber Fleet Issue
+Gila
+Phantasm
+Cynabal
+Vigilant
+Vexor Navy Issue
+Ashimmu
+Curse
+Scythe Fleet Issue
+Augoror Navy Issue
+Osprey Navy Issue
+Exequror Navy Issue
+Tengu
+Legion
+Proteus
+Loki
+Stratios
+Orthrus
+Gnosis
+Oracle
+Naga
+Talos
+Tornado
+Ferox
+Brutix
+Cyclone
+Prophecy
+Eos
+Sleipnir
+Vulture
+Absolution
+Astarte
+Claymore
+Nighthawk
+Damnation
+Harbinger
+Drake
+Myrmidon
+Hurricane
+Rokh
+Hyperion
+Abaddon
+Maelstrom
+Raven
+Tempest
+Scorpion
+Megathron
+Apocalypse
+Armageddon
+Typhoon
+Dominix
+Raven Navy Issue
+Apocalypse Navy Issue
+Megathron Navy Issue
+Tempest Fleet Issue
+Nightmare
+Machariel
+Vindicator
+Rattlesnake
+Bhaalgorn
+Armageddon Navy Issue
+Dominix Navy Issue
+Scorpion Navy Issue
+Typhoon Fleet Issue
+Nestor
+Barghest
